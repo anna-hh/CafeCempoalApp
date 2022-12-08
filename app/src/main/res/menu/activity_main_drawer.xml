@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item android:title="Principal">
+            <menu>
+                <item
+                    android:id="@+id/homeFragment"
+                    android:icon="@drawable/ic_baseline_home_24"
+                    android:title="@string/menu_home" />
+            </menu>
+        </item>
+
+        <item android:title="Sobre nosotros">
+            <menu>
+                <item
+                    android:id="@+id/conocenosFragment"
+                    android:icon="@drawable/ic_baseline_emoji_people_24"
+                    android:title="@string/menu_conocenos" />
+                <item
+                    android:id="@+id/contactanosFragment"
+                    android:icon="@drawable/ic_baseline_contact_phone_24"
+                    android:title="@string/menu_contacto" />
+                <item
+                    android:id="@+id/califFragment"
+                    android:icon="@drawable/ic_baseline_star_rate_24"
+                    android:title="@string/menu_calif" />
+                <item
+                    android:id="@+id/pdpFragment"
+                    android:icon="@drawable/ic_baseline_security_24"
+                    android:title="@string/menu_pdp" />
+                <item
+                    android:id="@+id/tycFragment"
+                    android:icon="@drawable/ic_baseline_drive_file_rename_outline_24"
+                    android:title="@string/menu_tyc" />
+            </menu>
+        </item>
+    </group>
+
+</menu>

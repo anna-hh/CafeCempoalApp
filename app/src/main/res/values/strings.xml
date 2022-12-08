@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name" translatable="false">CafeCempoal</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Android Studio</string>
+    <string name="nav_header_subtitle" translatable="false">android.studio@android.com</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings" translatable="false">Configuración</string>
+    <string name="action_help" translatable="false">Ayuda</string>
+
+    <string name="menu_home" translatable="false">Inicio</string>
+    <string name="menu_exp" translatable="false">Carrito</string>
+    <string name="menu_conocenos" translatable="false">Conócenos</string>
+    <string name="menu_contacto" translatable="false">Contacto</string>
+    <string name="menu_calif" translatable="false">Califícanos</string>
+    <string name="menu_pdp" translatable="false">Políticas de privacidad</string>
+    <string name="menu_tyc" translatable="false">Términos y condiciones</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="law_ita" translatable="false">CafeCempoal</string>
+    <string name="contrasena" translatable="false">Contraseña</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="ingresar" translatable="false">Ingresar</string>
+    <string name="no_tiene_una_cuenta" translatable="false">¿No tiene una cuenta?</string>
+    <string name="registrarme_ahora" translatable="false">Registrarse ahora</string>
+    <string name="olvide_contraseña" translatable="false">¿Olvidó tu contraseña?</string>
+    <string name="recuperar_ahora" translatable="false">Recuperar ahora</string>
+    <string name="ingrese_sus_datos" translatable="false">Ingrese sus datos</string>
+    <string name="nombre" translatable="false">Nombre</string>
+    <string name="apellidos" translatable="false">Apellidos</string>
+    <string name="registrarse" translatable="false">Registrarse</string>
+    <string name="cancelar" translatable="false">Cancelar</string>
+    <string name="confirmar_password" translatable="false">Confirmar contraseña</string>
+    <string name="telefono" translatable="false">Teléfono</string>
+    <string name="llenar_campos" translatable="false">Asegúrese de llenar todos los campos</string>
+    <string name="registro_e" translatable="false">Registro exitoso</string>
+    <string name="correo_ya_registrado" translatable="false">Este correo ya está registrado</string>
+    <string name="no_match" translatable="false">Las contraseñas no coinciden</string>
+    <string name="llenar_campos_login" translatable="false">Por favor, llene todos los campos</string>
+    <string name="bienvenida" translatable="false">Bienvenido</string>
+    <string name="cerrar_sesion" translatable="false">Cerrar sesión</string>
+    <string name="menu" translatable="false">Menú</string>
+
+    <string name="help2" translatable="false"><![CDATA[En caso de ya contar con un pedido, CafeCempoal se compromete a mantenerle al tanto sobre su pedido, mediante una actualización constante, el cual podrá consultar en la app.]]></string>
+    <string name="help1" translatable="false"><![CDATA[CafeCempoal es una aplicación que facilita el realizar un pedido y poder recogerlo a la hora seleccionada. Esto mas que nada para las personas que tienen prisa y no quieren o no cuentan con mucho tiempo para hacer una fila, esto solo les da la oportunidad de llegar y pagar]]></string>
+    <string name="helpTopic" translatable="false">¿Quienes somos en CafeCempoal?</string>
+
+    <string name="pdp" translatable="false"> <b>CafeCempoal</b>, ubicados en Av. Lopez mateos, esquina con Av. tecnologico, codigo postal 20255, Aguascalientes, Ags., capaces de brindar un servicio muy hogareño y eficas.
+    \n\nSus datos personales ingresados para la utilizacion de esta aplicacion, seran respetado y guardados con la mayor privacidad posible..
+    \nnUsted tiene derecho de acceder, rectificar y cancelar sus datos personales, así como de oponerse al tratamiento de los mismos o revocar el consentimiento que para tal fin nos haya otorgado. Para conocer los procedimientos, requisitos y plazos para acceder, rectificar y cancelar sus datos, puede contactar a nuestro encargado de protección de datos personales: la señorita secretaria Carol Alexandra o a Luis Ernesto que se encuentren en el momento y correo electrónico: <b>cafe-cempoal@gmail.com</b>
+    \n\nNos reservamos el derecho a efectuar en cualquier momento modificaciones o actualizaciones al presente aviso de privacidad. \n\n</string>
+
+    <string name="Tyc" translatable="false"><b>Obligatoriedad, Consentimiento y Aceptación:</b>
+    \n\nLos Presentes Términos y Condiciones establecen las disposiciones y normas a las que todo individuo que decida interactuar con la App CafeCempoal, deberá obligarse y no será eximido de responsabilidad si incurriera en incumplimiento de las mismas.
+    \n\nYa que, al haber realizado visita y el haber interactuado con la App CafeCempoal, constituye de manera inequívoca e inmediata, el consentimiento tácito respecto al uso de la aplicación de los presentes Términos y Condiciones. Se le ruega al Usuario hacer lectura de estos últimos.
+    \n\n<b>Definiciones:</b> \n Para facilidad del lector y para los efectos conducentes de los presentes Términos y Condiciones, Soto &amp; Hernadez en el presente apartado, proporciona las definiciones pertinentes de los siguientes conceptos, mismos que aparecerán más adelante en el presente documento. Las siguientes palabras deberán de ser interpretadas como se describe. Para efectos de diferenciación, los términos que en lo sucesivo se definen, serán descritos con la primera letra en mayúscula y únicamente cuando se utilicen con dicho formato es cuando deberán de interpretarse como tales.
+    \n\n<b>Carga (Upload): </b>Se refiere a toda operación voluntaria de índole informática que involucra la transferencia de Información almacenada en un dispositivo electrónico a una plataforma en línea.
+    \n\n<b>Descarga (Download): </b>Se refiere a toda operación voluntaria de índole informática que involucra la transferencia de Información en línea a un dispositivo electrónico.
+    \n\n<b>Contenido: </b>Se refiere a todo componente multimedia y/o información consistente de manera enunciativa más no limitativa en textos, gráficos, fotografías, logotipos, audio, video, marcas, imágenes, bases de datos, así como el diseño gráfico, código fuente y software, que sean propiedad de Soto &amp; Hernandez.
+    \n\n<b>Elemento(s): </b>Se refiere a todo componente multimedia y/o información consistente de manera enunciativa más no limitativa en textos, gráficos, fotografías, logotipos, audio, video, marcas, imágenes, bases de datos, así como el diseño gráfico, código fuente y software, que sean propiedad de terceros.
+    \n\n<b>Usuario: </b>Se refiere a todo aquel individuo que obtenga acceso e interactúe con o navegue en el Sitio Web. \n\n</string>
+
+    <string name="helpTitle" translatable="false">Ayuda</string>
+    <string name="settingTitle" translatable="false">Configuración</string>
+    <string name="inicioTxt" translatable="false">  Café <b> Cempoal </b> está a tus órdenes.
+        \n\nSomos unos profesionales en Café, utilizando granos mexicanos y colombianos.</string>
+    <string name="citaTxt" translatable="false">Agenda tu Pedido y especificanos los detalles de tus productos, como tipo de leche, con o sin crema batida, etc..</string>
+    <string name="agendar_cita" translatable="false">Agendar pedido</string>
+
+    <string name="inicioTitulo" translatable="false">Primera Café Americano Gratis (valido clientes nuevos)</string>
+    <string name="ver_cita_txt" translatable="false">¿Ya tienes un pedido? Consúlta los detalles aquí:</string>
+    <string name="ver_citas" translatable="false">Ver pedido</string>
+    <string name="agendar_cita_act" translatable="false">Agendar Pedido</string>
+    <string name="explicacion" translatable="false">Agrega una breve explicación de tu pedido:</string>
+    <string name="agendar" translatable="false">Agregar pedido</string>
+    <string name="hora" translatable="false">Hora</string>
+    <string name="registroExitoso" translatable="false">onSuccess: Registro exitoso</string>
+    <string name="usuarioR" translatable="false">Usuario registrado</string>
+    <string name="usuarioNR" translatable="false">Usuario no registrado</string>
+    <string name="citaExitosa" translatable="false">onSuccess: Pedido agendada</string>
+    <string name="nombreA" translatable="false">Nombre:</string>
+    <string name="telefonoA" translatable="false">Teléfono:</string>
+    <string name="emailA" translatable="false">Email:</string>
+    <string name="domicilioA" translatable="false">Domicilio:</string>
+
+    <string name="conocenos" translatable="false"><b>CafeCempoal</b>, es un café familiar, amantes de la reposeria tradicional y extranjera. Somo especialistas en hacer sentir bien y confortable a nuestros clientes, que mas que clientes se vuelven parte de nuestra familia.
+        \n\n Nuestros reposterios y baristan tienen las bases necesarias, para garantizar que su trabajo es de calidad, cada uno de ellos cuenta con una etica y un compromiso para con ustedes y esto ayuda a ofrecerles de calidad cada uno de lo sproductos que salen de nuestro establecimiento
+        \n\nFormación, compromiso y empatía son cualidades que forman parte del ADN de los integrantes de <b>CafeCempoal</b>. Para nosotros la calidad, amabilidad van primero</string>
+    <string name="contactanosTxt" translatable="false"><b>CafeCempoal</b>
+        \n\n<b>Teléfono:</b> 449-285-60-90
+    </string>
+    <string name="emailContacto" translatable="false"><b>Email:</b> cafecempoal@gmail.com</string>
+    <string name="direccionContacto" translatable="false"><b>\nDirección:</b> \nAv. Lopez mateos, esquina con Av. tecnologico, codigo postal 20255, Aguascalientes, Ags.
+    </string>
+
+    <string name="una_cita" translatable="false"><i>Nota: Solo aceptamos pagos en efectivo en el momento que recojas tu producto</i></string>
+    <string name="fechaC" translatable="false">Fecha</string>
+    <string name="actualizar_cita" translatable="false">Actualizar detalles del pedido</string>
+    <string name="vercita" translatable="false">Ver detalles de tu pedido</string>
+    <string name="ratingTitle" translatable="false">¿Qué te pareció la app?</string>
+    <string name="agrega_un_comentario" translatable="false">Agrega un comentario</string>
+    <string name="c_r" translatable="false">Comentario registrado</string>
+    <string name="comentario" translatable="false">Comentario: \n</string>
+    <string name="apellido" translatable="false">Apellido</string>
+    <string name="hlink" >Hypelink_textview</string>
+    <!-- href tag is used to add link-->
+    <string name="link"> <a href= "https://www.google.com.mx/maps/place/Instituto+Tecnol%C3%B3gico+de+Aguascalientes/@21.8782247,-102.2654921,17z/data=!3m1!4b1!4m5!3m4!1s0x8429ee069d6cf307:0xd93b5294c07171a7!8m2!3d21.8782197!4d-102.2629172">Dirección: ITA</a></string>
+    <string name="gmail"> <a href= "https://www.gmaiil.com">cafecempoal@gmail.com</a></string>
+</resources>

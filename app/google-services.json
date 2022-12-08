@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "539185572684",
+    "project_id": "law-ita",
+    "storage_bucket": "law-ita.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539185572684:android:e2932e5419c2ff65fcbde9",
+        "android_client_info": {
+          "package_name": "com.example.law_ita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539185572684-hbdv3mctonudiv8q60ovpe3g3gn7mav8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcyWNATOJws4f_wTksT1qXE0mVHwF46X0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539185572684-hbdv3mctonudiv8q60ovpe3g3gn7mav8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

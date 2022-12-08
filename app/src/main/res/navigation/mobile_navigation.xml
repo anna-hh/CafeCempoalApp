@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/homeFragment">
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.law_ita.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/expFragment"
+        android:name="com.example.law_ita.ExpFragment"
+        android:label="@string/menu_exp"
+        tools:layout="@layout/fragment_exp" />
+    <fragment
+        android:id="@+id/califFragment"
+        android:name="com.example.law_ita.califFragment"
+        android:label="@string/menu_calif"
+        tools:layout="@layout/fragment_calif" />
+    <fragment
+        android:id="@+id/conocenosFragment"
+        android:name="com.example.law_ita.conocenosFragment"
+        android:label="@string/menu_conocenos"
+        tools:layout="@layout/fragment_conocenos" />
+    <fragment
+        android:id="@+id/contactanosFragment"
+        android:name="com.example.law_ita.contactanosFragment"
+        android:label="@string/menu_contacto"
+        tools:layout="@layout/fragment_contactanos" />
+    <fragment
+        android:id="@+id/pdpFragment"
+        android:name="com.example.law_ita.pdpFragment"
+        android:label="@string/menu_pdp"
+        tools:layout="@layout/fragment_pdp" />
+    <fragment
+        android:id="@+id/tycFragment"
+        android:name="com.example.law_ita.tycFragment"
+        android:label="@string/menu_tyc"
+        tools:layout="@layout/fragment_tyc" />
+</navigation>
