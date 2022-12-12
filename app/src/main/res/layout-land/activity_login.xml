@@ -55,7 +55,7 @@
         android:paddingEnd="20dp"
         android:textColor="@android:color/black"
         android:textColorHint="#818080"
-        android:textSize="20sp"
+        android:textSize="16sp"
         tools:ignore="RtlSymmetry,TextContrastCheck" />
 
     <EditText
@@ -73,19 +73,20 @@
         android:paddingEnd="0dp"
         android:textColor="@android:color/black"
         android:textColorHint="#818080"
-        android:textSize="20sp"
+        android:textSize="16sp"
         tools:ignore="RtlSymmetry,TextContrastCheck" />
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/loginBtn"
         android:layout_width="280dp"
-        android:layout_height="29dp"
+        android:layout_height="40dp"
         android:layout_marginStart="80dp"
         android:layout_marginTop="40dp"
         android:layout_marginEnd="80dp"
         android:background="#F44336"
         android:text="@string/ingresar"
-        android:textColor="#000000" />
+        android:textColor="#000000"
+        android:textSize="14sp" />
 
     <RelativeLayout
         android:layout_width="wrap_content"
@@ -104,7 +105,7 @@
             android:text="@string/registrarme_ahora"
             android:textAlignment="center"
             android:textColor="@color/black"
-            android:textSize="18sp"
+            android:textSize="16sp"
             android:textStyle="bold" />
     </RelativeLayout>
 

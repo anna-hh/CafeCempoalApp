@@ -53,19 +53,19 @@
     \n\nWe reserve the right to modify or update this privacy notice at any time. \n\n</string>
 
     <string name="Tyc" translatable="false"><b>Consent and Acceptance:</b>
-    \n\nThese Terms and Conditions establish the provisions and rules to which any individual who decides to interact with the CafeCempoal App shall be bound and shall not be exempt from liability if he/she fails to comply with them.
+    \n\nThese Terms and Conditions establish the provisions and rules to which any individual who decides to interact with the CafeCempoal App shall be bound and shall not be exempt from liability if he or she fails to comply with them.
     \n\nSince, having visited and interacted with the CafeCempoal App, constitutes unequivocal and immediate tacit consent to the use of the application of these Terms and Conditions. The User is requested to read the latter.
-    \n\n<b>Terms:</b> \n For the reader's convenience and for the purposes of these Terms and Conditions, Soto &amp; Hernadez in this section, provides the relevant definitions of the following concepts, which will appear later in this document. The following words shall be interpreted as described. For purposes of differentiation, the terms defined hereinafter shall be described with the first letter capitalized and only when used in such format shall they be construed as such.
+    \n\n<b>Terms:</b> \n For the readers convenience and for the purposes of these Terms and Conditions, Soto and Hernandez in this section, provides the relevant definitions of the following concepts, which will appear later in this document. The following words shall be interpreted as described. For purposes of differentiation, the terms defined hereinafter shall be described with the first letter capitalized and only when used in such format shall they be construed as such.
     \n\n<b>Upload: </b>Refers to any voluntary IT operation involving the transfer of information stored on an electronic device to an online platform.
     \n\n<b>Download App: </b>Refers to any voluntary operation of a computer nature that involves the transfer of information online to an electronic device.
-    \n\n<b>Contents: </b>Refers to all multimedia components and/or information consisting of, but not limited to, text, graphics, photographs, logos, audio, video, trademarks, images, databases, as well as graphic design, source code and software, which are the property of Soto y amp; Hernandez.
-    \n\n<b>Items: </b>Refers to all multimedia components and/or information consisting of, but not limited to, text, graphics, photographs, logos, audio, video, trademarks, images, databases, as well as graphic design, source code and software owned by third parties.
-    \n\n<b>User: </b>Refers to any individual who accesses and interacts with or browses the Web Site.. \n\n</string>
+    \n\n<b>Contents: </b>Refers to all multimedia components and or information consisting of, but not limited to, text, graphics, photographs, logos, audio, video, trademarks, images, databases, as well as graphic design, source code and software, which are the property of Soto y amp; Hernandez.
+    \n\n<b>Items: </b>Refers to all multimedia components and or information consisting of, but not limited to, text, graphics, photographs, logos, audio, video, trademarks, images, databases, as well as graphic design, source code and software owned by third parties.
+    \n\n<b>User: </b>Refers to any individual who accesses and interacts with or browses the Web Site. \n\n</string>
 
     <string name="helpTitle" translatable="false">Help</string>
     <string name="settingTitle" translatable="false">Settings</string>
     <string name="inicioTxt" translatable="false">  Cempoal <b> Coffee </b> is at your service.
-        \n\nWe are professionals in coffee, using Mexican and Colombian beans..</string>
+        \n\nWe are professionals in coffee, using Mexican and Colombian beans.</string>
     <string name="citaTxt" translatable="false">Schedule your order and specify the details of your products, such as type of milk, with or without whipped cream, etc.</string>
     <string name="agendar_cita" translatable="false">Place an order</string>
 
