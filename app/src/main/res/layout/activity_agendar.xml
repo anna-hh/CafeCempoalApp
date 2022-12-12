@@ -22,9 +22,9 @@
             android:layout_alignParentBottom="true"
             android:layout_marginStart="30dp"
             android:text="@string/fechaC"
-            android:textColor="#FFFFFFFF"
+            android:textColor="#050101"
             android:textSize="18sp"
-            app:iconTint="#FFFFFF"
+            app:iconTint="#000000"
             app:layout_constraintEnd_toStartOf="@+id/editTextDate"
             app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toStartOf="parent"
@@ -56,7 +56,7 @@
             android:layout_alignParentBottom="true"
             android:layout_marginStart="30dp"
             android:text="@string/hora"
-            android:textColor="#FFFFFFFF"
+            android:textColor="#050303"
             android:textSize="18sp"
             app:layout_constraintEnd_toStartOf="@+id/editTextTime"
             app:layout_constraintHorizontal_bias="0.0"
@@ -111,9 +111,9 @@
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="30dp"
         android:text="@string/agendar"
-        android:textColor="#FFFFFFFF"
+        android:textColor="#100707"
         android:textColorLink="#F44336"
         android:textSize="18sp"
         app:layout_constraintEnd_toStartOf="@+id/editTextTime"
-        app:rippleColor="#EFEDED" />
+        app:rippleColor="#0C0505" />
 </LinearLayout>
