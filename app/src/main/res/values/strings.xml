@@ -103,6 +103,7 @@
     <string name="comentario" translatable="false">Comentario: \n</string>
     <string name="apellido" translatable="false">Apellido</string>
     <string name="hlink" >Hypelink_textview</string>
+
     <!-- href tag is used to add link-->
     <string name="link"> <a href= "https://www.google.com.mx/maps/place/Instituto+Tecnol%C3%B3gico+de+Aguascalientes/@21.8782247,-102.2654921,17z/data=!3m1!4b1!4m5!3m4!1s0x8429ee069d6cf307:0xd93b5294c07171a7!8m2!3d21.8782197!4d-102.2629172">Dirección: ITA</a></string>
     <string name="gmail"> <a href= "https://www.gmaiil.com">cafecempoal@gmail.com</a></string>
