@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name" translatable="false">Cempoal Coffee</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Android Studio</string>
+    <string name="nav_header_subtitle" translatable="false">android.studio@android.com</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="action_help" translatable="false">Help</string>
+
+    <string name="menu_home" translatable="false">Home</string>
+    <string name="menu_exp" translatable="false">Shopping Car </string>
+    <string name="menu_conocenos" translatable="false">Meet Us</string>
+    <string name="menu_contacto" translatable="false">Contact</string>
+    <string name="menu_calif" translatable="false">Rate us</string>
+    <string name="menu_pdp" translatable="false">Privacy Policy</string>
+    <string name="menu_tyc" translatable="false">Terms and Conditions</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="law_ita" translatable="false">CempoalCoffe</string>
+    <string name="contrasena" translatable="false">Password</string>
+    <string name="email" translatable="false">Email Address</string>
+    <string name="ingresar" translatable="false">Login</string>
+    <string name="no_tiene_una_cuenta" translatable="false">Do you have an account? </string>
+    <string name="registrarme_ahora" translatable="false">Sign Up</string>
+    <string name="olvide_contraseña" translatable="false">Forgot your Password?</string>
+    <string name="recuperar_ahora" translatable="false">Recover now</string>
+    <string name="ingrese_sus_datos" translatable="false">Enter your data</string>
+    <string name="nombre" translatable="false">Name</string>
+    <string name="apellidos" translatable="false">Last name</string>
+    <string name="registrarse" translatable="false">Sign up</string>
+    <string name="cancelar" translatable="false">Cancel</string>
+    <string name="confirmar_password" translatable="false">Confirm Password</string>
+    <string name="telefono" translatable="false">Phone</string>
+    <string name="llenar_campos" translatable="false">Make sure to fill in all fields</string>
+    <string name="registro_e" translatable="false">Successful registration</string>
+    <string name="correo_ya_registrado" translatable="false">This email address is already registered</string>
+    <string name="no_match" translatable="false">Passwords do not match</string>
+    <string name="llenar_campos_login" translatable="false">Please fill in the fields</string>
+    <string name="bienvenida" translatable="false">Welcome</string>
+    <string name="cerrar_sesion" translatable="false">Logout</string>
+    <string name="menu" translatable="false">Menu</string>
+
+    <string name="help2" translatable="false"><![CDATA[In case you already have an order, CafeCempoal commits to keep you updated on your order, through a constant update, which you will be able to consult in the app.]]></string>
+    <string name="help1" translatable="false"><![CDATA[CafeCempoal is an application that makes it easy to place an order and pick it up at the selected time. This more than anything for people who are in a hurry and do not want or do not have much time to stand in line, this just gives them the opportunity to arrive and pay.]]></string>
+    <string name="helpTopic" translatable="false">Who we are?</string>
+
+    <string name="pdp" translatable="false"> <b>CempoalCoffe</b>, Located in Lopez Mateos Av., corner with Tecnologico Av., Postal Code 20255, Aguascalientes, Ags., capable of providing a very homelike and efficient service.
+    \n\nYour personal data entered for the use of this application will be respected and kept as private as possible.
+    \nnYou have the right to access, rectify and cancel your personal data, as well as to oppose the processing thereof or revoke the consent you have given us for that purpose. To learn about the procedures, requirements and deadlines to access, rectify and cancel your data, you can contact our personal data protection officer: Miss Carol Alexandra secretary or Luis Ernesto who are at the time and email: <b>cafe-cempoal@gmail.com</b>
+    \n\nWe reserve the right to modify or update this privacy notice at any time. \n\n</string>
+
+    <string name="Tyc" translatable="false"><b>Consent and Acceptance:</b>
+    \n\nThese Terms and Conditions establish the provisions and rules to which any individual who decides to interact with the CafeCempoal App shall be bound and shall not be exempt from liability if he/she fails to comply with them.
+    \n\nSince, having visited and interacted with the CafeCempoal App, constitutes unequivocal and immediate tacit consent to the use of the application of these Terms and Conditions. The User is requested to read the latter.
+    \n\n<b>Terms:</b> \n For the reader's convenience and for the purposes of these Terms and Conditions, Soto &amp; Hernadez in this section, provides the relevant definitions of the following concepts, which will appear later in this document. The following words shall be interpreted as described. For purposes of differentiation, the terms defined hereinafter shall be described with the first letter capitalized and only when used in such format shall they be construed as such.
+    \n\n<b>Upload: </b>Refers to any voluntary IT operation involving the transfer of information stored on an electronic device to an online platform.
+    \n\n<b>Download App: </b>Refers to any voluntary operation of a computer nature that involves the transfer of information online to an electronic device.
+    \n\n<b>Contents: </b>Refers to all multimedia components and/or information consisting of, but not limited to, text, graphics, photographs, logos, audio, video, trademarks, images, databases, as well as graphic design, source code and software, which are the property of Soto y amp; Hernandez.
+    \n\n<b>Items: </b>Refers to all multimedia components and/or information consisting of, but not limited to, text, graphics, photographs, logos, audio, video, trademarks, images, databases, as well as graphic design, source code and software owned by third parties.
+    \n\n<b>User: </b>Refers to any individual who accesses and interacts with or browses the Web Site.. \n\n</string>
+
+    <string name="helpTitle" translatable="false">Help</string>
+    <string name="settingTitle" translatable="false">Settings</string>
+    <string name="inicioTxt" translatable="false">  Cempoal <b> Coffee </b> is at your service.
+        \n\nWe are professionals in coffee, using Mexican and Colombian beans..</string>
+    <string name="citaTxt" translatable="false">Schedule your order and specify the details of your products, such as type of milk, with or without whipped cream, etc.</string>
+    <string name="agendar_cita" translatable="false">Place an order</string>
+
+    <string name="inicioTitulo" translatable="false">First Free Americano Coffee (valid for new customers)</string>
+    <string name="ver_cita_txt" translatable="false">Already have an order? Check the details here:</string>
+    <string name="ver_citas" translatable="false">Check order</string>
+    <string name="agendar_cita_act" translatable="false">Place an order</string>
+    <string name="explicacion" translatable="false">Add a brief explanation of your request:</string>
+    <string name="agendar" translatable="false">Add order</string>
+    <string name="hora" translatable="false">Time</string>
+    <string name="registroExitoso" translatable="false">onSuccess</string>
+    <string name="usuarioR" translatable="false">Registered User</string>
+    <string name="usuarioNR" translatable="false">No registered User</string>
+    <string name="citaExitosa" translatable="false">Scheduled order</string>
+    <string name="nombreA" translatable="false">Name:</string>
+    <string name="telefonoA" translatable="false">Phone:</string>
+    <string name="emailA" translatable="false">Email Address:</string>
+    <string name="domicilioA" translatable="false">Address:</string>
+
+    <string name="conocenos" translatable="false"><b>Cempoal Coffe</b>, is a family cafe, lovers of traditional and foreign pastries. We are specialists in making our customers feel good and comfortable, more than customers become part of our family.
+        \n\n Our pastry chefs and bartenders have the necessary basis to ensure that their work is of quality, each of them has an ethic and a commitment to you and this helps to offer quality each of the products that come out of our establishment.
+        \n\nTraining, commitment and empathy are qualities that are part of the team of the members of <b>Cempoal Coffee</b>. For us, quality and friendliness come first</string>
+    <string name="contactanosTxt" translatable="false"><b>CempoalCoffee</b>
+        \n\n<b>Phone:</b> 449-285-60-90
+    </string>
+    <string name="emailContacto" translatable="false"><b>Email Address:</b> cafecempoal@gmail.com</string>
+    <string name="direccionContacto" translatable="false"><b>\nAddress:</b> \nAv. Lopez mateos, esquina con Av. Tecnologico, codigo postal 20255, Aguascalientes, Ags.
+    </string>
+
+    <string name="una_cita" translatable="false"><i>Note: We only accept cash payment at the time you pick up your product.</i></string>
+    <string name="fechaC" translatable="false">Date</string>
+    <string name="actualizar_cita" translatable="false">Update order details.</string>
+    <string name="vercita" translatable="false">Check order details</string>
+    <string name="ratingTitle" translatable="false">What did you think about the app?</string>
+    <string name="agrega_un_comentario" translatable="false">Add a comment</string>
+    <string name="c_r" translatable="false">Comment recorded</string>
+    <string name="comentario" translatable="false">Comment: \n</string>
+    <string name="apellido" translatable="false">Lastname:</string>
+    <string name="hlink" >Hypelink_textview</string>
+    <!-- href tag is used to add link-->
+    <string name="link"> <a href= "https://www.google.com.mx/maps/place/Instituto+Tecnol%C3%B3gico+de+Aguascalientes/@21.8782247,-102.2654921,17z/data=!3m1!4b1!4m5!3m4!1s0x8429ee069d6cf307:0xd93b5294c07171a7!8m2!3d21.8782197!4d-102.2629172">Dirección: ITA</a></string>
+    <string name="gmail"> <a href= "https://www.gmaiil.com">cafecempoal@gmail.com</a></string>
+</resources>
